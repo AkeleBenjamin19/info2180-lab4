@@ -1,3 +1,1 @@
-# INFO2180 Lab4
-
-This is Lab 4 for Akele Benjamin
+# AJAX Superheroes Starter Files
